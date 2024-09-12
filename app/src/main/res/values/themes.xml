@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Android_pro_03_secret_diary" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Android_pro_03_secret_diary" parent="Base.Theme.Android_pro_03_secret_diary" />
+
+
+
+    <style name="Base.Theme.Android_pro_03_secret_diary.Picker">
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textSize">10sp</item>
+        <item name="colorControlNormal">#aaaaaa</item>
+
+    </style>
+
+
+</resources>
